@@ -22,4 +22,3 @@ if __name__ == '__main__':
     print (new)
     print (type(new))
     print (dir(new))
-    print ('Yeah')
