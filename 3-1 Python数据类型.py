@@ -1,3 +1,4 @@
+# coding:utf8
 print (45678 + 0x12fd2)
 
 print ("Learn Python in imooc。")
